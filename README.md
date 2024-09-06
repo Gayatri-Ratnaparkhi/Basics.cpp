@@ -1,24 +1,22 @@
-AIM
-To learn about VS code and getting input from user and displaying it.
+# Basics-of-CPP
 
-Software Used
-VS Code and Cpp online Compiler
+### Hello World and Calculator
+**Experiment 1**
 
-Problem Statement
-1.) Write a program to print simple 'Hello world' message.
+**AIM -**
+To Print "Hello World" and program a simple calculator in C++
 
-2.) Write a program to get the input from user and displaying it.
+### Theory
 
-3.) Write a program to create a basic calculator.
+C++ is a general-purpose, high-performance programming language that builds on the foundation of the C language. Developed by Bjarne Stroustrup in 1979. C++ is a cross-platform language used to create high-performance applications. It supports object-oriented programming.
 
-Theory
-To print a message or output we use 'cout' .
+This experiment consists of two practicals namely printing of `"Hello World"` and making of simple calculator program.
 
-The namespace is used to decrease or limit the scope of any variable or function.
+### Experiment 1 A: Hello World - 
+In the hello world program , the `cout` function from the iostream library is used to print output. The iostream library in C++ is a library for input and output operations.
 
-'endl' is used to move the cursor to the new line.
-
-Program
+### Experiment 1 B: Simple Calculator - 
+Arithmetic operators`(+,-,/,*)` were used to create calculator program and `cin` function is used to receive inputs from the user.
 //Print hello world
 #include<iostream>
 using namespace std;
